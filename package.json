@@ -1,0 +1,21 @@
+{
+  "name": "boyfriend-application",
+  "version": "1.0.0",
+  "description": "non",
+  "main": "index.js",
+  "dependencies": {
+    "browser-cli": "^0.0.3",
+    "browser-sync": "^2.24.6",
+    "devcamp-js-builder": "^1.3.5",
+    "flexbox": "^0.0.3",
+    "generate-js": "^3.1.2",
+    "gulp": "^1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
