@@ -4,12 +4,12 @@
   "description": "non",
   "main": "index.js",
   "dependencies": {
-    "devcamp-js-builder": "^1.3.5",
-    "flexbox": "^0.0.3",
-    "generate-js": "^3.1.2"
   },
   "devDependencies": {
     "browser-cli": "^0.0.3",
+    "generate-js": "^3.1.2",
+    "flexbox": "^0.0.3",
+    "devcamp-js-builder": "^1.3.5",
     "browser-sync": "^2.24.6",
     "gulp": "^1.0"
   },
