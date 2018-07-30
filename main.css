@@ -73,3 +73,6 @@ body {
     height: 100%;
     position: relative;
 }
+pre {
+    font-family: none;
+}
